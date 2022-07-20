@@ -1,0 +1,22 @@
+{
+  "name": "Rdentify Scoring",
+  "author": {
+    "name": "Rdentify Limited",
+    "email": "development@rdentify.com",
+    "url": "https://www.rdentify.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "https://iframes.rdentify.com/zendeskapp"
+      }
+    },
+    "chat": {
+      "chat_sidebar": "https://iframes.rdentify.com/zendeskapp"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
