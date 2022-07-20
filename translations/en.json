@@ -1,8 +1,16 @@
 {
   "app": {
-    "name": "Rdentify",
-    "short_description": "Detect vulnerability from your customer interactions",
-    "long_description": "Rdentify detects vulnerabilities through AI to keep you compliant and your customers protected.",
-    "installation_instructions": "Install this app and connect your Rdentify account to Zendesk by speaking to your account manager."
+      "support": {
+        "name": "Rdentify",
+        "short_description": "Detect vulnerability from your customer interactions",
+        "long_description": "Rdentify detects vulnerabilities through AI to keep you compliant and your customers protected.",
+        "installation_instructions": "Install this app and connect your Rdentify account to Zendesk by speaking to your account manager."
+    },
+      "chat": {
+        "name": "Rdentify",
+        "short_description": "Detect vulnerability from your customer interactions",
+        "long_description": "Rdentify detects vulnerabilities through AI to keep you compliant and your customers protected.",
+        "installation_instructions": "Install this app and connect your Rdentify account to Zendesk by speaking to your account manager."
+    }
   }
 }
