@@ -8,4 +8,4 @@ Rdentify Scoring panel for Zendesk
 * Get real time scoring directly inside the dashboard
 * Never miss a vulnerable customer!
 
-Please submit bug reports to development@rdentify.com.
+Please submit bug reports to support@rdentify.com.
